@@ -1,0 +1,6 @@
+{
+  "name": "CineStream",
+  "description": "Buscador de películas en la red, streaming y canales de TV en vivo con recomendador integrado y moderación de catálogo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
